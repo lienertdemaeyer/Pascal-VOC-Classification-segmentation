@@ -2,16 +2,6 @@
 
 This repository contains a pipeline for performing both **classification** and **segmentation** tasks using deep learning models. Additionally, it implements adversarial attacks to test the robustness of the models on the Pascal VOC dataset.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Adversarial Attacks](#adversarial-attacks)
-- [Pascal VOC Dataset](#pascal-voc-dataset)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 This project provides a modular approach for building and testing models for both classification and segmentation. The pipeline includes training, evaluation, and testing models, as well as generating adversarial examples using common attack techniques.
 
