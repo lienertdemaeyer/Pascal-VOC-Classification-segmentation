@@ -14,7 +14,8 @@ This project provides a modular approach for building and testing models for bot
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/lienertdemaeyer/Pascal-VOC-Classification-segmentation.git
+cd Pascal-VOC-Classification-segmentation
 pip install -r requirements.txt
+
 
